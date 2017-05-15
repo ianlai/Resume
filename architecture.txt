@@ -1,0 +1,18 @@
+English
+[P1]
+  Skill
+  Experience 
+  School 
+  Paper
+
+Japanese
+[P1]
+* Work Guideline
+@Work Experience
+
+[P2] 
+  School 
+  Skill
+* Ability 
+  Paper
+
